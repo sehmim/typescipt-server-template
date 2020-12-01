@@ -1,0 +1,16 @@
+{
+  "name": "video-chat-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node ./src/server.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.1.2"
+  }
+}
